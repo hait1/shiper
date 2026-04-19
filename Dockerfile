@@ -1,1 +1,1 @@
-FROM ghcr.io/seav1/kox:main
+FROM jfu888/nzonesb
